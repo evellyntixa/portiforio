@@ -1,6 +1,12 @@
 *(
-    margin: 0;/*deixa a margem esquerda e direita nula*/
-    padding: 0: /*deixa a margem superior e inferior nula*/
+    margin: 0; /*deixa a margem esquerda e direita nula*/
+    padding: 0; /*deixa a margem superior e inferior nula*/
     box-sizing: border-box; /*cria uma caixa invisivel para o corpo do site*/
 
 )
+
+.topo{
+    background-color: blueviolet;/*cor do fundo do topo o sife*/
+    height: 15vh;/*tamanho do topo do site*/
+}
+
